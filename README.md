@@ -1,4 +1,3 @@
-# Statistics21
 # Distribution:
 _A distribution in statistics is a function that shows the possible values for a variable and how often they occur. It is a mathematical description of the spread of the data._
 
