@@ -22,6 +22,20 @@ _In statistics, a parameter is a numerical measure that describes characteristic
 _A statistic is a numerical measure that describes a sample. It is a characteristic of the sample,  not the population_
 ## estimator:    
 _An estimator is a statistic that estimates some fact about the population._
+## Simple random sampling:
+_Simple random sampling (SRS) is a probability sampling method in which every member of a population has an equal chance of being selected for the sample._
+## Example od Estimator
+_Mean,Median,Mode,Varience,Standard Deviation_
+```
+
+There are three main criteria of a good estimator:
+Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter it is estimating. This means that, on average, the estimator will be equal to the population parameter.
+
+    Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases. This means that the estimator will become more and more accurate as the sample size increases.
+    
+    Efficiency: An efficient estimator is one that has the smallest variance among all unbiased estimators of the same population parameter. This means that the estimator will be less variable than other estimators, which will lead to more accurate inferences.
+
+```
 ## sample distribution:
 _A sample distribution is the probability distribution of a statistic that is obtained  through repeated sampling of a specific population._
  ##  Normal distribution:    
