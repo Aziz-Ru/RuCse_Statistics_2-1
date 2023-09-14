@@ -28,3 +28,16 @@ _A sample distribution is the probability distribution of a statistic that is ob
  _Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
  
  <img src="https://www.investopedia.com/thmb/lFaG1vgFO0XgA_Xzfw3yPLjG2Iw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clipboard01-fdb217713438416cadafc48a1e4e5ee4.jpg">
+ 
+ ```
+ x = value of the variable or data being examined and f(x) the probability function
+ μ = the mean
+ σ = the standard deviation
+A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
+
+```
+
+##
+
+    
+
