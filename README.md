@@ -17,3 +17,12 @@ _In statistics, a parameter is a numerical measure that describes characteristic
     Variance: A measure of how spread out the data is around the mean.
     Standard deviation: The square root of the variance.
 ```
+
+## statistic:
+_A statistic is a numerical measure that describes a sample. It is a characteristic of the sample,  not the population_
+## estimator:    
+_An estimator is a statistic that estimates some fact about the population._
+## sample distribution:
+_A sample distribution is the probability distribution of a statistic that is obtained  through repeated sampling of a specific population._
+ ##  Normal distribution:    
+ _ Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
