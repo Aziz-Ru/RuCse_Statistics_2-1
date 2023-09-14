@@ -25,4 +25,5 @@ _An estimator is a statistic that estimates some fact about the population._
 ## sample distribution:
 _A sample distribution is the probability distribution of a statistic that is obtained  through repeated sampling of a specific population._
  ##  Normal distribution:    
- _ Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
+ _Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
+ <img src="https://www.investopedia.com/thmb/lFaG1vgFO0XgA_Xzfw3yPLjG2Iw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clipboard01-fdb217713438416cadafc48a1e4e5ee4.jpg"
