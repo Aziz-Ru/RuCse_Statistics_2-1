@@ -24,18 +24,61 @@ _A statistic is a numerical measure that describes a sample. It is a characteris
 _An estimator is a statistic that estimates some fact about the population._
 ## Simple random sampling:
 _Simple random sampling (SRS) is a probability sampling method in which every member of a population has an equal chance of being selected for the sample._
+
+## Degree of Freedom
+**Degrees of freedom (df) is a statistical concept that is used to describe the number of independent values that are used to estimate a parameter.**
+## PDF
+**The probability density function (pdf) is a function that completely describes the distribution of a continuous random variable.**
+## Gamma Funtion
+**The Gamma function is a generalization of the factorial function to non-integer numbers.**
+## Moment generating function (MGF):
+**The moment generating function (MGF) of a random variable is a function that can be used to calculate the moments of the random variable.
+The MGF is defined as follows:**
+_M(t) = E[e^{tX}]_
+## Chi Square Distribution:
+**The chi-squared distribution is a continuous probability distribution that is used in a variety of statistical applications, including hypothesis testing, confidence interval estimation, and goodness-of-fit tests**
+**The probability density function of the chi-square distribution with n degrees of freedom is given by:**
+<img src="https://www.thoughtco.com/thmb/xNWePQ14xqYHLJ_ZV3HjQ_m3G-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChiSquare-580582515f9b5805c266cc66.jpg">
+
 ## Example od Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
 ```
 
 There are three main criteria of a good estimator:
-Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter it is estimating. This means that, on average, the estimator will be equal to the population parameter.
+Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter it is estimating.This means that, on average, the estimator will be equal to the population parameter.
 
-    Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases. This means that the estimator will become more and more accurate as the sample size increases.
+Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases.This means that the estimator will become more and more accurate as the sample size increases.
     
-    Efficiency: An efficient estimator is one that has the smallest variance among all unbiased estimators of the same population parameter. This means that the estimator will be less variable than other estimators, which will lead to more accurate inferences.
+Efficiency: An efficient estimator is one that has the smallest variance among all unbiased estimators of the same population parameter. This means that the estimator will be less variable than other estimators, which will lead to more accurate inferences.
+
+
+ Sample mean: The sample mean is an unbiased, consistent, and efficient estimator of the population mean.
+Sample median: The sample median is a robust estimator of the population median.
+Maximum likelihood estimator: The maximum likelihood estimator is a consistent estimator of the population parameter that maximizes the likelihood of the observed data.
+
+Biased: a statistic that is either an overestimate or an underestimate.
+Efficient: a statistic with small variances (the one with the smallest possible variance is also called the “best”). Inefficient estimators can give you good results as well, but they usually requires much larger samples.
+Invariant: statistics that are not easily changed by transformations, like simple data shifts.
+Shrinkage: a raw estimate that’s improved by combining it with other information. See also: The James-Stein estimator.
+Sufficient: a statistic that estimates the population parameter as well as if you knew all of the data in all possible samples.
+Unbiased: an accurate statistic that neither underestimates nor overestimates.
+
+
 
 ```
+## Types of Estimation:
+_Point estimation is the process of estimating a population parameter with a single value. For example, we can use the sample mean to estimate the population mean._
+
+_Interval estimation is the process of estimating a population parameter with a range of values. For example, we can use a confidence interval to estimate the population mean._
+
+_Bayesian estimation is a statistical method for estimating population parameters based on prior knowledge and observed data._
+
+## Likelihood:
+The principle of maximum likelihood (MLE) is a statistical method for estimating population parameters. It works by finding the parameter values that maximize the likelihood of the observed data.
+The likelihood function is a function of the parameter values and the observed data. It represents the probability of observing the data given the parameter values.The principle of MLE is based on the following idea:
+_If we have a set of data and we want to estimate the value of a parameter, then the parameter value that is most likely to have produced the data is the parameter value that maximizes the likelihood of the data._
+
+
 ## sample distribution:
 _A sample distribution is the probability distribution of a statistic that is obtained  through repeated sampling of a specific population._
  ##  Normal distribution:    
@@ -50,8 +93,5 @@ _A sample distribution is the probability distribution of a statistic that is ob
 A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
 
 ```
-
-##
-
     
 
