@@ -46,6 +46,27 @@ _M(t) = E[e^{tX}]_
 
 [cumulant-generating-function-of-distribution](https://www.assignmenthelp.net/assignment_help/cumulant-generating-function-of-distribution)
 
+## Application:
+**1.Hypothesis Testing**
+
+**2.Confidence interval Estimation**
+
+**3.Goodness of fit test**
+
+**4.Testing Independence**
+
+**5.Testing homogenity of varience**
+## Properties of the chi-squared distribution:
+
+ **Skewness: The chi-squared distribution is skewed to the right. This means that the right tail of the distribution is longer than the left tail.**
+
+**Mean: The mean of the chi-squared distribution is equal to the degrees of freedom.**
+
+**Variance: The variance of the chi-squared distribution is equal to twice the degrees of freedom.**
+
+**Chi-squared test statistic: The chi-squared test statistic is used to test hypotheses about population parameters. The chi-squared test statistic is a chi-squared variate with degrees of freedom equal to the number of degrees of freedom in the hypothesis test**
+
+
 ## Example od Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
 ```
