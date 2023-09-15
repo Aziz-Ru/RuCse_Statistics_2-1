@@ -63,14 +63,45 @@ _M(t) = E[e^{tX}]_
 **5.Testing homogenity of varience**
 ## Properties of the chi-squared distribution:
 
+**Shape: The chi-square distribution is positively skewed and takes only non-negative values. Its shape depends on the degrees of freedom (dfdf) parameter, and as dfdf increases, the distribution becomes more symmetric and approaches a normal distribution.**
+
+**Degrees of Freedom (dfdf): The chi-square distribution has one parameter, which is the degrees of freedom (dfdf). dfdf must be a positive integer, and it determines the shape and characteristics of the distribution.**
+
+**Probability Density Function (PDF): The probability density function (PDF) of a chi-square distribution with dfdf degrees of freedom is given by:**
+
  **Skewness: The chi-squared distribution is skewed to the right. This means that the right tail of the distribution is longer than the left tail.**
 
 **Mean: The mean of the chi-squared distribution is equal to the degrees of freedom.mean=n**
 
 **Variance: The variance of the chi-squared distribution is equal to twice the degrees of freedom.varience =2nand mode =n-2**
 
+**large value n tends to infinty then chi squre tends to normal distribution**
+
 **Chi-squared test statistic: The chi-squared test statistic is used to test hypotheses about population parameters. The chi-squared test statistic is a chi-squared variate with degrees of freedom equal to the number of degrees of freedom in the hypothesis test**
 
+
+ ##  Normal distribution:    
+ _Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
+ 
+ <img src="https://www.investopedia.com/thmb/lFaG1vgFO0XgA_Xzfw3yPLjG2Iw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clipboard01-fdb217713438416cadafc48a1e4e5ee4.jpg">
+ 
+ ```
+ x = value of the variable or data being examined and f(x) the probability function
+ μ = the mean
+ σ = the standard deviation
+A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
+
+```
+
+## What Is a T-Distribution?
+
+_The t-distribution, also known as the Student’s t-distribution, is a type of probability distribution that is similar to the normal distribution with its bell shape but has heavier tails. It is used for estimating population parameters for small sample sizes or unknown variances_
+
+<img src="https://cdn1.byjus.com/wp-content/uploads/2019/08/t-distribution-formula.png">
+
+[T-Distribution Basics](https://www.youtube.com/watch?v=VJdjLHiXeGw)
+
+[Derivation of Probability density function of Student t-distribution](https://www.youtube.com/watch?v=acWcNrJtNJM)
 
 ## Example od Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
@@ -112,17 +143,5 @@ _If we have a set of data and we want to estimate the value of a parameter, then
 
 
 
- ##  Normal distribution:    
- _Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
- 
- <img src="https://www.investopedia.com/thmb/lFaG1vgFO0XgA_Xzfw3yPLjG2Iw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clipboard01-fdb217713438416cadafc48a1e4e5ee4.jpg">
- 
- ```
- x = value of the variable or data being examined and f(x) the probability function
- μ = the mean
- σ = the standard deviation
-A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
-
-```
     
 
