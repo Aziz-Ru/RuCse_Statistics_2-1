@@ -4,11 +4,11 @@ _A distribution in statistics is a function that shows the possible values for a
 _Variance is a measure of how spread out a set of data is from the mean_
 ## Expected value:
 _Expected value is the average value of a random variable._ 
-## population:
+## Population:
 _In statistics, a population is a set of all similar items or events that are of interest for some question or experiment._
-## sample:
+## Sample:
 _In statistics, a sample is a subset of a population._
-## parameter:
+## Parameter:
 _In statistics, a parameter is a numerical measure that describes characteristic a population.It is a characteristic of the entire population, not just a sample.Parameters are often denoted by Greek letters, such as μ for the population mean and σ2 for the population variance._
 ```
     Mean: The average value of all the members of the population.
@@ -18,13 +18,13 @@ _In statistics, a parameter is a numerical measure that describes characteristic
     Standard deviation: The square root of the variance.
 ```
 
-## statistic:
+## Statistic:
 _A statistic is a numerical measure that describes a sample. It is a characteristic of the sample,  not the population_
-## estimator:    
+## Estimator:    
 _An estimator is a statistic that estimates some fact about the population._
 ## Simple random sampling:
 _Simple random sampling (SRS) is a probability sampling method in which every member of a population has an equal chance of being selected for the sample._
-## sample distribution:
+## Sample distribution:
 _A sample distribution is the probability distribution of a statistic that is obtained  through repeated sampling of a specific population._
 ## Degree of Freedom
 **Degrees of freedom (df) is a statistical concept that is used to describe the number of independent values that are used to estimate a parameter.**
@@ -59,7 +59,7 @@ _M(t) = E[e^{tX}]_
 <img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-16%2000-11-56.png">
 
 ## Chi Square Distribution:
-**The chi-squared distribution is a continuous probability distribution that has limit 0 to infinty and has probability density funtion and used in a variety of statistical applications, including hypothesis testing, confidence interval estimation, and goodness-of-fit tests**
+**The chi-squared distribution is a continuous probability distribution that has limit 0<=x^2<∞ and it has probability density funtion and it used in a variety of statistical applications, including hypothesis testing, confidence interval estimation, and goodness-of-fit tests**
 
 **The probability density function of the chi-square distribution with n degrees of freedom is given by:**
 <img src="https://www.thoughtco.com/thmb/xNWePQ14xqYHLJ_ZV3HjQ_m3G-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChiSquare-580582515f9b5805c266cc66.jpg">
@@ -82,21 +82,49 @@ _M(t) = E[e^{tX}]_
 **5.Testing homogenity of varience**
 ## Properties of the chi-squared distribution:
 
-**Shape: The chi-square distribution is positively skewed and takes only non-negative values. Its shape depends on the degrees of freedom (dfdf) parameter, and as dfdf increases, the distribution becomes more symmetric and approaches a normal distribution.**
+```
+1.limit 0<=x^2<∞
+2.mean =df
+3.varience=2*df
+4.mode=df-2
+5.M.G.F  Mx(t)=(1-2t)^-df/2
+6.C.G.F  Kx(t)=-n/2(log(1-2t))  n df
+7.b1>0 that means positve skewed
+8.b2>3 that means  The shape of the distribution is always leptokurtic
+9.Additive property of chi-square :sum of k independent is also chi-square variate
+10.chracterise :(1-2it)^-n/2
+11.ns^2/sigma^2  ~  x^2(n-1)
+12.If we consider two independent chi variate x and y and ratio of variable x^2 variate follows beta distribution second kind of x/y ~B2
+13.P.D.F
 
-**Degrees of Freedom (dfdf): The chi-square distribution has one parameter, which is the degrees of freedom (dfdf). dfdf must be a positive integer, and it determines the shape and characteristics of the distribution.**
-
-**Probability Density Function (PDF): The probability density function (PDF) of a chi-square distribution with dfdf degrees of freedom is given by:**
-
- **Skewness: The chi-squared distribution is skewed to the right. This means that the right tail of the distribution is longer than the left tail.**
-
-**Mean: The mean of the chi-squared distribution is equal to the degrees of freedom.mean=n**
-
-**Variance: The variance of the chi-squared distribution is equal to twice the degrees of freedom.varience =2nand mode =n-2**
-
-**large value n tends to infinty then chi squre tends to normal distribution**
+```
 
 **Chi-squared test statistic: The chi-squared test statistic is used to test hypotheses about population parameters. The chi-squared test statistic is a chi-squared variate with degrees of freedom equal to the number of degrees of freedom in the hypothesis test**
+
+## T-statistic:
+
+<img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-16%2001-03-15.png">
+
+## What Is a T-Distribution?
+
+_The t-distribution, also known as the Student’s t-distribution, is a type of probability distribution that is similar to the normal distribution with its bell shape but has heavier tails. It is used for estimating population parameters for small sample sizes or unknown variances_
+
+<img src="https://cdn1.byjus.com/wp-content/uploads/2019/08/t-distribution-formula.png">
+
+## Properties of the T distribution:
+
+```
+1.P.D.F
+2.mean=0
+3.varience=n/n-2
+4.when n->∞ it tends to normal distribution
+5.limit -∞<t<∞
+6.b1=0 so it is symmetric
+7.b2>3 it is leptokurtic
+```
+
+[T-Distribution playlist](https://youtube.com/playlist?list=PLr45G29rKQuYZhXRcRHaO2OIecemjGux4&si=pJ4ZkaL6tufNPESu)
+
 
 
  ##  Normal distribution:    
@@ -111,16 +139,6 @@ _M(t) = E[e^{tX}]_
 A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
 
 ```
-
-## What Is a T-Distribution?
-
-_The t-distribution, also known as the Student’s t-distribution, is a type of probability distribution that is similar to the normal distribution with its bell shape but has heavier tails. It is used for estimating population parameters for small sample sizes or unknown variances_
-
-<img src="https://cdn1.byjus.com/wp-content/uploads/2019/08/t-distribution-formula.png">
-
-[T-Distribution Basics](https://www.youtube.com/watch?v=VJdjLHiXeGw)
-
-[Derivation of Probability density function of Student t-distribution](https://www.youtube.com/watch?v=acWcNrJtNJM)
 
 ## Example od Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
