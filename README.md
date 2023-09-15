@@ -36,6 +36,13 @@ _A sample distribution is the probability distribution of a statistic that is ob
 **The moment generating function (MGF) of a random variable is a function that can be used to calculate the moments of the random variable.
 The MGF is defined as follows:**
 _M(t) = E[e^{tX}]_
+## Beta Funtion
+
+**Beta function defines a relation between a set of input and output values. It is also a symmetric relation and function, such that β(a, b)=β(b. a). Beta functions are two variable functions**
+
+<img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-15%2020-55-07.png">
+<img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-15%2020-55-27.png">
+
 ## Chi Square Distribution:
 **The chi-squared distribution is a continuous probability distribution that is used in a variety of statistical applications, including hypothesis testing, confidence interval estimation, and goodness-of-fit tests**
 ## chi-square variate
