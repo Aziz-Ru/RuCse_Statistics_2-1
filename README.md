@@ -163,9 +163,10 @@ Shrinkage: a raw estimate that’s improved by combining it with other informati
 Sufficient: a statistic that estimates the population parameter as well as if you knew all of the data in all possible samples.
 Unbiased: an accurate statistic that neither underestimates nor overestimates.
 
-
-
 ```
+
+## F Distribution
+[F distribution](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=3oMUUFpty0g6PBih)
 ## Types of Estimation:
 _Point estimation is the process of estimating a population parameter with a single value. For example, we can use the sample mean to estimate the population mean._
 
