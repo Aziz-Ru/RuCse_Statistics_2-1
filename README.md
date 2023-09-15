@@ -127,6 +127,11 @@ _The t-distribution, also known as the Student’s t-distribution, is a type of 
 
 
 
+## F Distribution
+[F distribution](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=3oMUUFpty0g6PBih)
+
+
+
  ##  Normal distribution:    
  _Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data  near the mean are more frequent in occurrence than data far from  the mean._
  
@@ -164,9 +169,6 @@ Sufficient: a statistic that estimates the population parameter as well as if yo
 Unbiased: an accurate statistic that neither underestimates nor overestimates.
 
 ```
-
-## F Distribution
-[F distribution](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=3oMUUFpty0g6PBih)
 ## Types of Estimation:
 _Point estimation is the process of estimating a population parameter with a single value. For example, we can use the sample mean to estimate the population mean._
 
