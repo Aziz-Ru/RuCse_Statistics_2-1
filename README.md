@@ -40,6 +40,12 @@ _M(t) = E[e^{tX}]_
 **The probability density function of the chi-square distribution with n degrees of freedom is given by:**
 <img src="https://www.thoughtco.com/thmb/xNWePQ14xqYHLJ_ZV3HjQ_m3G-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChiSquare-580582515f9b5805c266cc66.jpg">
 
+[chi-square-distribution](https://www.statlect.com/probability-distributions/chi-square-distribution)
+
+[Moment Generating function of of pdf of ch square](https://www.youtube.com/watch?v=7_4joe5OCW0&t=1001s)
+
+[cumulant-generating-function-of-distribution](https://www.assignmenthelp.net/assignment_help/cumulant-generating-function-of-distribution)
+
 ## Example od Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
 ```
