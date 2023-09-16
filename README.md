@@ -224,6 +224,11 @@ _Bayesian estimation is a statistical method for estimating population parameter
 **A measure of the number of independent observations in a sample.**
 
 
+<object data="stat_note.pdf" type="application/pdf" width="500" height="600">
+  <embed src="stat_note.pdf" type="application/pdf" width="500" height="600">
+</object>
+
+
 
 
     
