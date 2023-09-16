@@ -144,31 +144,25 @@ _The t-distribution, also known as the Student’s t-distribution, is a type of 
 A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
 
 ```
+## Estimator:
 
-## Example od Estimator
+**In statistics, an estimator is a rule for calculating an estimate of a given quantity based on observed data.**
+
+## Estimate:
+**An estimate is a rough approximation of a value.**
+
+## Example of Estimator
 _Mean,Median,Mode,Varience,Standard Deviation_
-```
 
-There are three main criteria of a good estimator:
-Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter it is estimating.This means that, on average, the estimator will be equal to the population parameter.
+## There are 4 main criteria of a good estimator:
+**Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter.if sample estimator equal Tn and population parameter @ then E(Tn)=@**
 
-Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases.This means that the estimator will become more and more accurate as the sample size increases.
+**Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases.This means prbability p{|Tn-@|<=epsilon}->1 as n->infinty**
     
-Efficiency: An efficient estimator is one that has the smallest variance among all unbiased estimators of the same population parameter. This means that the estimator will be less variable than other estimators, which will lead to more accurate inferences.
+**Efficiency: An efficient estimator is one thabased on varience.**
+**Sufficiency: An sufficiency estimatoar contains all information in the sample regarding poplation parameter @**
 
 
- Sample mean: The sample mean is an unbiased, consistent, and efficient estimator of the population mean.
-Sample median: The sample median is a robust estimator of the population median.
-Maximum likelihood estimator: The maximum likelihood estimator is a consistent estimator of the population parameter that maximizes the likelihood of the observed data.
-
-Biased: a statistic that is either an overestimate or an underestimate.
-Efficient: a statistic with small variances (the one with the smallest possible variance is also called the “best”). Inefficient estimators can give you good results as well, but they usually requires much larger samples.
-Invariant: statistics that are not easily changed by transformations, like simple data shifts.
-Shrinkage: a raw estimate that’s improved by combining it with other information. See also: The James-Stein estimator.
-Sufficient: a statistic that estimates the population parameter as well as if you knew all of the data in all possible samples.
-Unbiased: an accurate statistic that neither underestimates nor overestimates.
-
-```
 ## Types of Estimation:
 _Point estimation is the process of estimating a population parameter with a single value. For example, we can use the sample mean to estimate the population mean._
 
