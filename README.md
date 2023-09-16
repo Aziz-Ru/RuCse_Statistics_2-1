@@ -179,11 +179,48 @@ _Point estimation is the process of estimating a population parameter with a sin
 _Interval estimation is the process of estimating a population parameter with a range of values. For example, we can use a confidence interval to estimate the population mean._
 
 _Bayesian estimation is a statistical method for estimating population parameters based on prior knowledge and observed data._
+## Goodness of fit test
 
-## Likelihood:
-The principle of maximum likelihood (MLE) is a statistical method for estimating population parameters. It works by finding the parameter values that maximize the likelihood of the observed data.
-The likelihood function is a function of the parameter values and the observed data. It represents the probability of observing the data given the parameter values.The principle of MLE is based on the following idea:
-_If we have a set of data and we want to estimate the value of a parameter, then the parameter value that is most likely to have produced the data is the parameter value that maximizes the likelihood of the data._
+**A goodness of fit test is a statistical test that assesses how well a set of observed data fits a hypothesized distribution.**
+
+## Null hypothesis (H0):
+
+**there is no relationship between two variables.**
+
+## Alternative hypothesis (H1):
+
+**The hypothesis that there is a difference between two groups or that there is a relationship between two variables.**
+
+## Accept region: 
+
+**The range of values for a test statistic that would lead to the null hypothesis being accepted.**
+
+## Rejected region: 
+**The range of values for a test statistic that would lead to the null hypothesis being rejected.**
+
+## Type I error: 
+
+**The error of rejecting the null hypothesis when it is actually true**
+
+## Type II error:
+
+**The error of failing to reject the null hypothesis when it is actually false**
+
+## Contingency table:
+**A table that shows the frequencies of two or more categorical variables**
+
+## Level of significance (α): 
+
+**The probability of rejecting the null hypothesis when it is actually true.**
+
+## Power of a test:
+
+**The probability of rejecting the null hypothesis when it is actually false**
+
+## Degrees of freedom:
+
+**A measure of the number of independent observations in a sample.**
+
 
 
 
