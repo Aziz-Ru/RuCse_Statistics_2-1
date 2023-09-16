@@ -149,7 +149,9 @@ A normal distribution becomes a standard normal distribution when it has a mean 
 
 ```
 
-[**Estimation Playlist**](https://youtu.be/tBMyjbVmlGY?si=vP_E-ZeBx-LNU4Zb)
+[**Estimation Playlist**](https://youtube.com/playlist?list=PLr45G29rKQuYAsUTNGLguf0L4ZvA5oZdA&si=KLMZiAiwAG8woNaA)
+
+[**Maximum Likelihood Estimation**](https://youtube.com/playlist?list=PLr45G29rKQubF5nT3NMHqwKGW913ARRRz&si=zfOxpAKeiD9pjpZl)
 
 ## Estimator:
 
