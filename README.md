@@ -59,6 +59,9 @@ _M(t) = E[e^{tX}]_
 <img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-16%2000-11-56.png">
 
 ## Chi Square Distribution:
+
+[**chi-square playlist**](https://youtube.com/playlist?list=PLr45G29rKQua14fdUFsQ_A5TeHSDZQk0T&si=38ka5U-cXZnWB3mf)
+
 **The chi-squared distribution is a continuous probability distribution that has limit 0<=x^2<∞ and it has probability density funtion and it used in a variety of statistical applications, including hypothesis testing, confidence interval estimation, and goodness-of-fit tests**
 
 **The probability density function of the chi-square distribution with n degrees of freedom is given by:**
@@ -66,7 +69,7 @@ _M(t) = E[e^{tX}]_
 
 [chi-square-distribution](https://www.statlect.com/probability-distributions/chi-square-distribution)
 
-[chi-square playlist](https://youtube.com/playlist?list=PLr45G29rKQua14fdUFsQ_A5TeHSDZQk0T&si=38ka5U-cXZnWB3mf)
+
 
 [Mode of Chi squre](https://www.youtube.com/watch?v=yvA-TYg1i_I)
 
@@ -107,6 +110,8 @@ _M(t) = E[e^{tX}]_
 
 ## What Is a T-Distribution?
 
+[**T-Distribution playlist**](https://youtube.com/playlist?list=PLr45G29rKQuYZhXRcRHaO2OIecemjGux4&si=pJ4ZkaL6tufNPESu)
+
 _The t-distribution, also known as the Student’s t-distribution, is a type of probability distribution that is similar to the normal distribution with its bell shape but has heavier tails. It is used for estimating population parameters for small sample sizes or unknown variances_
 
 <img src="https://cdn1.byjus.com/wp-content/uploads/2019/08/t-distribution-formula.png">
@@ -123,12 +128,11 @@ _The t-distribution, also known as the Student’s t-distribution, is a type of 
 7.b2>3 it is leptokurtic
 ```
 
-[T-Distribution playlist](https://youtube.com/playlist?list=PLr45G29rKQuYZhXRcRHaO2OIecemjGux4&si=pJ4ZkaL6tufNPESu)
 
 
 
 ## F Distribution
-[F distribution](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=3oMUUFpty0g6PBih)
+[**F distribution playlist**](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=3oMUUFpty0g6PBih)
 
 
 
@@ -144,6 +148,9 @@ _The t-distribution, also known as the Student’s t-distribution, is a type of 
 A normal distribution becomes a standard normal distribution when it has a mean of 0 and a standard deviation of 1.
 
 ```
+
+[**Estimation Playlist**](https://youtu.be/tBMyjbVmlGY?si=vP_E-ZeBx-LNU4Zb)
+
 ## Estimator:
 
 **In statistics, an estimator is a rule for calculating an estimate of a given quantity based on observed data.**
@@ -155,6 +162,9 @@ A normal distribution becomes a standard normal distribution when it has a mean 
 _Mean,Median,Mode,Varience,Standard Deviation_
 
 ## There are 4 main criteria of a good estimator:
+
+[Video](https://www.youtube.com/watch?v=sDZZQ1BlNc0&list=PLr45G29rKQuYAsUTNGLguf0L4ZvA5oZdA&index=2)
+
 **Unbiasedness: An unbiased estimator is one whose expected value is equal to the population parameter.if sample estimator equal Tn and population parameter @ then E(Tn)=@**
 
 **Consistency: A consistent estimator is one that converges to the population parameter as the sample size increases.This means prbability p{|Tn-@|<=epsilon}->1 as n->infinty**
