@@ -1,3 +1,18 @@
+
+| Lessson  | playlist Link    |
+| -----------| -------------- | 
+|**Defination of Gamma Distribution**|[**Video Link for Gamma Distribution**](https://youtu.be/yOutGk1e828?si=x9uxlSC8tYq5_gAY)|
+|**Defination of Beta Distribution of 1st kind**|[**Video Link for Beta Distribtion of 1st Kind**](https://youtu.be/9oVR5g517CE?si=J566fPL9ZU2ROIrF)|
+|**Defination of Beta Distribution of 2nd kind**|[**Video Link for Beta Distribtion of 1st Kind**](https://youtu.be/BsJZQ32yNcg?si=Z3K6i3nIF9jKae-B)|
+|**Jacobian Transform Methods**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuanlj92bSuGUuMcRSGi2PCu&si=JD54ULkENWCuRlQX)|
+|**Standard normal**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQubo51lBKYrjnmdyro4DEUx9&si=4n7qsxr6CT0Phkp9)|
+|**Chi Squre Distribution**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQua14fdUFsQ_A5TeHSDZQk0T&si=4b-Z73AB0dhnHttP) |
+|**Chi-Squre Distribution tends to standard normal variate And Mode**|[**Link**](https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/limitofchisquare.png)|
+|**T Distribution**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuYZhXRcRHaO2OIecemjGux4&si=LbYZ4X67qMS4NyOy)|
+|**F Distribution**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=Zyc2iBFqhWuqtZPP)|
+
+
+
 # Distribution:
 _A distribution in statistics is a function that shows the possible values for a variable and how often they occur. It is a mathematical description of the spread of the data._
 ## Variance:
