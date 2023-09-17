@@ -29,8 +29,12 @@ _A sample distribution is the probability distribution of a statistic that is ob
 ## Degree of Freedom
 **Degrees of freedom (df) is a statistical concept that is used to describe the number of independent values that are used to estimate a parameter.**
 ## PDF
-**The probability density function (pdf) is a function that completely describes the distribution of a continuous random variable.**
-## Gamma Funtion
+**The probability density function (pdf) is a function that completely describes the distribution of a continuous random variable**
+
+<h1 align="center">Gamma Distribution </h1>
+
+[**Defination of gamma funtion**](https://youtu.be/yOutGk1e828?si=hCMXOOD0X7z5Lxa9)
+
 **The Gamma function is a generalization of the factorial function to non-integer numbers.**
 
 <img src="https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/Screenshot%20from%202023-09-16%2000-07-07.png">
