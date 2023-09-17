@@ -1,7 +1,10 @@
 <h1 align="center">Question Dekhe Video Dekho </h1>
 
+[**Statistics Best Channel**](https://www.youtube.com/@jogiraju3826/playlists)
+
 | Lessson  | playlist Link    |
 | -----------| -------------- | 
+|**Generating Functions**|[**Videos**](https://youtube.com/playlist?list=PLr45G29rKQua716Z53C7DBoGEb7FYwdxG&si=7AIkFZeQglG3xGKm)|
 |**Defination of Gamma Distribution**|[**Video Link for Gamma Distribution**](https://youtu.be/yOutGk1e828?si=x9uxlSC8tYq5_gAY)|
 |**Defination of Beta Distribution of 1st kind**|[**Video Link for Beta Distribtion of 1st Kind**](https://youtu.be/9oVR5g517CE?si=J566fPL9ZU2ROIrF)|
 |**Defination of Beta Distribution of 2nd kind**|[**Video Link for Beta Distribtion of 1st Kind**](https://youtu.be/BsJZQ32yNcg?si=Z3K6i3nIF9jKae-B)|
