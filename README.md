@@ -1,3 +1,4 @@
+<h1 align="center">Question Dekhe Video Dekho </h1>
 
 | Lessson  | playlist Link    |
 | -----------| -------------- | 
@@ -10,6 +11,11 @@
 |**Chi-Squre Distribution tends to standard normal variate And Mode**|[**Link**](https://github.com/Aziz-Ru/Statistics21/blob/main/screenshot/limitofchisquare.png)|
 |**T Distribution**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuYZhXRcRHaO2OIecemjGux4&si=LbYZ4X67qMS4NyOy)|
 |**F Distribution**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuaxRCpYhV7KZAhTVU7-48Gb&si=Zyc2iBFqhWuqtZPP)|
+|**Theory of Estimation**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuYAsUTNGLguf0L4ZvA5oZdA&si=vXD4CHZYoIpwXFiN)|
+|**Maximum Liklihood Estimation**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQubF5nT3NMHqwKGW913ARRRz&si=ErTHUmFrSdv5kxj6)|
+|**Sufficiency Lessons**|[**Link**](https://youtube.com/playlist?list=PLr45G29rKQuYXTm7JB36SV78TMFiK55Qq&si=PUbcLdVmTAofwnUe)|
+|**Hypothesis Testing**|[**Link**](https://www.youtube.com/playlist?list=PLr45G29rKQuakEQ5DZP9_ArkpnA6MrIQr)|
+|**Non Parametric Lesson**|[**Link**](https://www.youtube.com/playlist?list=PLr45G29rKQuYPJnz8YSZ5x2dAc7E4TEK-)|
 
 
 
